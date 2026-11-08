@@ -9,6 +9,13 @@ A simple book manager built with python
 - Load saved books
 - Display all saved books
 - Admin mode with password authentication
+- Set book priority
+
+## Book priority
+Each book can have one of these priority levels:
+- low
+- medium
+- high
 
 ## Project structure
 ```bash
