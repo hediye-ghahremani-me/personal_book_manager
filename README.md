@@ -1,7 +1,7 @@
 # Personal book manager
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 
-A simple book manager built with python
+A simple book manager built with python!
 
 ## Features
 - Save books data
