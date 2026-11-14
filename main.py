@@ -27,6 +27,6 @@ for i in range(count):
     }
     books.append(book)
 
-print("Added books:")
+print("Your added books:")
 show_books(books)
 save_books(books)
